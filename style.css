@@ -297,6 +297,7 @@
     }
     
     main > article > .article-description-section {
+      color: rgb(255, 255, 255);
       order: 3;
     }
     
