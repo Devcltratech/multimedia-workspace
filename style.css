@@ -203,6 +203,11 @@
     font-size: 1.25em;
   }
   
+  main > article > .article-description-section > p > li{
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 1.25em;
+  }
+  
   main > article > .article-description-section > p  > a:hover {
     text-decoration: underline;
   }
@@ -392,11 +397,6 @@
       display: flex;
       align-items: center;
       justify-content: center;
-      font-size: 2rem;
-    }
-
-    main > article > .article-description-section > p > li {
-      color: rgb(177, 177, 177);
       font-size: 2rem;
     }
   }
