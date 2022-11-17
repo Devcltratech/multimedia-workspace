@@ -32,6 +32,11 @@
   a:hover {
     color: var(--highlight-color);
   }
+
+  ion-icon {
+    min-width: 20px;
+    min-height: 20px;
+  }
   
   nav {
     display: flex;
