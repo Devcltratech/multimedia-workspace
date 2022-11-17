@@ -387,16 +387,3 @@
       font-size: 1rem;
     }
   }
-  
-  /* -- YT link / Source link styles -- */
-  
-  main > article > .article-description-section > p  > .source-link {
-    color: var(--highlight-color);
-    display: inline;
-  }
-  
-  main > article .yt-link,
-  main > article .yt-link > i {
-    color: var(--yt-color);
-    display: inline;
-  }
