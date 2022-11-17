@@ -297,8 +297,6 @@
     }
     
     main > article > .article-description-section {
-      align-items: center;
-      justify-content: center;
       order: 3;
     }
     
