@@ -171,10 +171,14 @@
   }
   
   main > article:nth-child(1) > .article-image-section {
-    background-image: url("image/mm2.jpg");
+    background-image: url("image/mm1.jpg");
   }
   
   main > article:nth-child(2) > .article-image-section {
+    background-image: url("image/mm2.jpg");
+  }
+  
+  main > article:nth-child(3) > .article-image-section {
     background-image: url("image/mm3.jpg");
   }
   
