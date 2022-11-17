@@ -394,4 +394,9 @@
       justify-content: center;
       font-size: 2rem;
     }
+
+    main > article > .article-description-section > p > li {
+      color: rgb(177, 177, 177);
+      font-size: 2rem;
+    }
   }
