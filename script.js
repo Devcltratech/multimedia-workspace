@@ -36,7 +36,7 @@ const handleRightClick = () => {
   });
 }
 
-/* -- Mobile Nav Toggle -- */
+/* -- Mobile Nav Toggle :) -- */
 
 const nav = document.querySelector("nav");
 
