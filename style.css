@@ -34,8 +34,8 @@
   }
 
   ion-icon {
-    min-width: 50px;
-    min-height: 50px;
+    min-width: 35px;
+    min-height: 35px;
   }
   
   nav {
@@ -45,7 +45,7 @@
   }
   
   nav .nav-section {
-    padding: 1.5rem 2rem;
+    padding: 2rem 2rem;
     display: flex;
     gap: 1rem;
     border-left: 1px solid var(--border-color);
