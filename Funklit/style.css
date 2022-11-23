@@ -25,7 +25,8 @@ body
     top: 0;
     left: 0;
     display: flex;
-    justify-content: left;
+    align-items: center;
+    justify-items: left;
     z-index: 69;
     color: #fff; 
 }
