@@ -46,13 +46,13 @@ body
     width: auto;
     display: flex;
     align-items: center;
-    margin-left: 30px;
+    margin-left: 50px;
     color: #fff;
     background: transparent;
     border: solid #fff 1px;
     border-radius: 50%;
 }
-.topnav .srcnav ionicon-icon
+.topnav .srcnav ion-icon
 {
     padding-left: 40px;
 }
