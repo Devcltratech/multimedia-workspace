@@ -49,5 +49,10 @@ body
     margin-left: 30px;
     color: #fff;
     background: transparent;
-    border: solid #fff 10px;
+    border: solid #fff 1px;
+    border-radius: 50%;
+}
+.topnav .srcnav ionicon-icon
+{
+    padding-left: 40px;
 }
