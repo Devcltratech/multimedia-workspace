@@ -28,11 +28,11 @@ body
     align-items: center;
     justify-items: left;
     z-index: 69;
-    color: #fff; 
+    color: rgb(255, 0, 0); 
 }
 .topnav h2
 {
-    margin-left: -20px;
+    margin-left: -10px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .topnav img
