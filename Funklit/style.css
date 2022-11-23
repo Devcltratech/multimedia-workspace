@@ -40,3 +40,14 @@ body
     margin-left: 20px;
     height: 65px;
 }
+.topnav .srcnav
+{
+    height: 65px;
+    width: auto;
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+    color: #fff;
+    background: transparent;
+    border: solid #fff 10px;
+}
