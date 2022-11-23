@@ -50,7 +50,7 @@ body
     color: #fff;
     background: transparent;
     border: solid #fff 1px;
-    border-radius: 50%;
+    border-radius: 20px;
 }
 .topnav .srcnav ion-icon
 {
